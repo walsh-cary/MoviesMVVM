@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoviesMVVM</string>
+    <string name="TimeNetworkTracker">TimeNetworkTracker</string>
+    <string name="LAST_NETWORK_REQUEST">LAST_NETWORK_REQUEST</string>
+</resources>
